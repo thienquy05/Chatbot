@@ -1,0 +1,10 @@
+I have skills in Python, SQL, C/C++, and Java, along with experience in full-stack development. 
+The tools I have used include GitHub, Microsoft Office, Git, and SIEM platforms. 
+I am comfortable working across multiple operating systems, including Windows, Linux, and macOS.
+
+I have hands-on experience with cybersecurity tools such as Wireshark, Nmap, and John the Ripper for password-cracking and brute-force testing. 
+I also understand fundamental cybersecurity frameworks and concepts such as the NIST Cybersecurity Framework (CSF), the CIA Triad, and OWASP Top 10.
+
+Additionally, I utilize AI-based tools for productivity and research, including ChatGPT, Gemini, Claude, GitHub Copilot, and Bing AI. 
+These tools help me accelerate learning, debugging, and creative problem-solving in both cybersecurity and development projects.
+

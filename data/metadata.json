@@ -1,0 +1,41 @@
+{
+    "profile/about_me.txt": {
+        "category": "profile",
+        "topic": "about",
+        "source_file": "about_me.txt",
+        "created_date": "10/22/2025",
+        "description": "Personal background and personality traits."
+    },
+
+    "profile/ThienQuy_Pham_Resume.docx": {
+        "category": "profile",
+        "topic": "resume",
+        "source_file": "ThienQuy_Pham_Resume.docx",
+        "created_date": "10/22/2025",
+        "description": "Contains education and work experience background."
+    },
+
+    "profile/goals.txt": {
+        "category": "profile",
+        "topic": "goals",
+        "source_file": "goals.txt",
+        "created_date": "10/22/2025",
+        "description": "Career goals, motivations, and future aspirations."
+    },
+
+    "profile/skills.txt": {
+        "category": "profile",
+        "topic": "skills",
+        "source_file": "skills.txt",
+        "created_date": "10/22/2025",
+        "description": "Technical and Essential skills, tools and frameworks used."
+    },
+
+    "profile/certificates.txt": {
+        "category": "profile",
+        "topic": "certificates",
+        "source_file": "certificates.txt",
+        "created_date": "10/27/2025",
+        "description": "Details about completed cybersecurity certifications and key skills learned; include certificate URL if available."
+    }
+}

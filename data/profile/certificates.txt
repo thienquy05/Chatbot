@@ -1,0 +1,11 @@
+Certificate: Google Cybersecurity Professional Certificate (Coursera)
+Status: Completed
+https://coursera.org/share/7d45baf7758235cb572cbdf3229ec4f8
+
+I completed the Google Cybersecurity Professional Certificate on Coursera, which gave me a broad, practical foundation in real-world cybersecurity. The course covered core concepts such as the CIA triad and AAA, as well as the NIST Cybersecurity Framework (CSF). I gained hands-on experience with Linux and common security tooling, including Nmap for network scanning and John the Ripper for password testing.  
+
+The training also covered network concepts (how ports work and how to harden networks), fundamentals of encryption (symmetric vs. asymmetric), and how secure websites are established (TLS/HTTPS). I practiced using analysis and monitoring tools such as Wireshark and Splunk, and strengthened my scripting and data skills with Python and SQL.  
+
+I plan to keep building on this foundation by applying these skills to real-world labs and internship projects to deepen practical experience in threat detection, incident response, and vulnerability mitigation.
+
+Now, I'm continuously pursuing CompTIA A+ Certificate and aiming to finish CompTIA Security+ Certificate before graduation.
